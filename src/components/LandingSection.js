@@ -20,8 +20,8 @@ const LandingSection = () => (
       <Avatar
         borderRadius='full'
         boxSize='150px'
-        src='./images/profile.svg'
-        alt='Profile pic'
+        src='https://i.pravatar.cc/150?img=7'
+        alt='Profile pic'z
       />
       <Heading as='h5' size='sm'>{greeting}</Heading>
       <Heading as='h2' size='2xl'>{bio1}</Heading>
